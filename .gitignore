@@ -1,0 +1,14 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Data
+data/raw/*
+!data/raw/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
